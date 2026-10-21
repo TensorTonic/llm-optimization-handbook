@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="240" viewBox="0 0 1280 240">
+<rect x="0.5" y="0.5" width="1279" height="239" rx="16" fill="#ffffff" stroke="#e5e5e5"/>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#00753e"/></marker></defs>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="40" y="38" font-size="15" fill="#737373" letter-spacing="2">THE ROADMAP</text>
+<rect x="41" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="69" cy="90" r="14" fill="#00ff88"/><text x="69" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">1</text>
+<text x="57" y="140" font-size="16" font-weight="700" fill="#0a0a0a">Inference</text><text x="57" y="162" font-size="16" font-weight="700" fill="#0a0a0a">Fundamentals</text>
+<text x="57" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="194" y1="130" x2="210" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="216" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="244" cy="90" r="14" fill="#00ff88"/><text x="244" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">2</text>
+<text x="232" y="151" font-size="16" font-weight="700" fill="#0a0a0a">Quantization</text>
+<text x="232" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="369" y1="130" x2="385" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="391" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="419" cy="90" r="14" fill="#00ff88"/><text x="419" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">3</text>
+<text x="407" y="140" font-size="16" font-weight="700" fill="#0a0a0a">KV Cache &amp;</text><text x="407" y="162" font-size="16" font-weight="700" fill="#0a0a0a">Attention</text>
+<text x="407" y="186" font-size="14" fill="#737373">9 topics</text>
+<line x1="544" y1="130" x2="560" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="566" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="594" cy="90" r="14" fill="#00ff88"/><text x="594" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">4</text>
+<text x="582" y="140" font-size="16" font-weight="700" fill="#0a0a0a">Speculative</text><text x="582" y="162" font-size="16" font-weight="700" fill="#0a0a0a">Decoding, MoE</text>
+<text x="582" y="186" font-size="14" fill="#737373">5 topics</text>
+<line x1="719" y1="130" x2="735" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="741" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="769" cy="90" r="14" fill="#00ff88"/><text x="769" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">5</text>
+<text x="757" y="151" font-size="16" font-weight="700" fill="#0a0a0a">GPU Kernels</text>
+<text x="757" y="186" font-size="14" fill="#737373">7 topics</text>
+<line x1="894" y1="130" x2="910" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="916" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="944" cy="90" r="14" fill="#00ff88"/><text x="944" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">6</text>
+<text x="932" y="140" font-size="16" font-weight="700" fill="#0a0a0a">Batching &amp;</text><text x="932" y="162" font-size="16" font-weight="700" fill="#0a0a0a">Parallelism</text>
+<text x="932" y="186" font-size="14" fill="#737373">8 topics</text>
+<line x1="1069" y1="130" x2="1085" y2="130" stroke="#00753e" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="1091" y="60" width="148" height="140" rx="12" fill="#fafafa" stroke="#e5e5e5"/>
+<circle cx="1119" cy="90" r="14" fill="#00ff88"/><text x="1119" y="96" font-size="16" font-weight="700" fill="#0a0a0a" text-anchor="middle">7</text>
+<text x="1107" y="140" font-size="16" font-weight="700" fill="#0a0a0a">Serving in</text><text x="1107" y="162" font-size="16" font-weight="700" fill="#0a0a0a">Production</text>
+<text x="1107" y="186" font-size="14" fill="#737373">5 topics</text>
+</g></svg>
