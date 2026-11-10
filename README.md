@@ -144,6 +144,8 @@ A fast model only helps if the whole system stays fast under real traffic. This 
 
 Once the stages above feel familiar, the [Cracking Inference study plan](https://www.tensortonic.com/study-plans/cracking-inference) collects the inference problems from this roadmap in one place, and the [LLM Internals](https://www.tensortonic.com/llm-internals) pages explain each mechanism visually. To put the pieces together, [build an inference server](https://www.tensortonic.com/projects/llm-inference) or [quantize a language model to 4 bits](https://www.tensortonic.com/projects/quantization-from-scratch) end to end.
 
+These optimizations are easier to reason about once you have written the model they speed up, and the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through building a small one stage by stage.
+
 ## License
 
 MIT
