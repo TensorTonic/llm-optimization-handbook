@@ -146,6 +146,8 @@ Once the stages above feel familiar, the [Cracking Inference study plan](https:/
 
 These optimizations are easier to reason about once you have written the model they speed up, and the [How to Build an LLM from Scratch](https://www.tensortonic.com/guides/build-an-llm-from-scratch) guide walks through building a small one stage by stage.
 
+If you want to write the fused kernels from Stage 5 yourself, the [How to Learn Triton](https://www.tensortonic.com/guides/how-to-learn-triton) guide explains how to learn Triton step by step.
+
 ## License
 
 MIT
